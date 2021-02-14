@@ -1,2 +1,6 @@
 user:
   role: developer Hello Oct
+  
+spring:
+  application:
+    name: timesheet-service
